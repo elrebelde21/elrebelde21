@@ -1,6 +1,6 @@
 ## hola 👋 Bienvenido, te presento mi perfil ✨
 
-<p align="center"><img title="Lolibot" src="https://78.media.tumblr.com/10275a23919ec5643d8cec044cb76df4/tumblr_p3izpzoiyu1vkfsowo1_400.gif"></p>
+<p align="center"><img title="Lolibot" src="https://telegra.ph/file/24a4c7f209e59e40e6334.gif"></p>
 
 <div align="center">
   <a href="https://github.com/elrebelde21">

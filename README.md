@@ -1,4 +1,4 @@
-### Hi there 👋
+### hola cómo está 👋 
 
 <!--
 **elrebelde21/elrebelde21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

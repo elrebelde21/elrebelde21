@@ -6,7 +6,7 @@
   <a href="https://github.com/elrebelde21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elrebelde21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-![Snake animation](https://github.com/elrebelde21/elrebelde21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--

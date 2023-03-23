@@ -3,7 +3,7 @@
 <p align="center"><img title="Lolibot" src="https://telegra.ph/file/24a4c7f209e59e40e6334.gif"></p>
 
 <p align="center">
-<Vid src="https://telegra.ph/file/7aa767620418047837a23.mp4" alt="The-LoliBot-MD" width="900"/>
+<img src="https://telegra.ph/file/7aa767620418047837a23.jpg" alt="The-LoliBot-MD" width="900"/>
 </p>
 
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)

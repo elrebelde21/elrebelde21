@@ -2,9 +2,9 @@
 
 <p align="center"><img title="Lolibot" src="https://telegra.ph/file/24a4c7f209e59e40e6334.gif"></p>
 
-<div align="center">
-  <a href="https://github.com/elrebelde21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elrebelde21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p align="center">
+<img src="https://telegra.ph/file/9854a169d0eaea13083c7.jpg" alt="The-LoliBot-MD" width="900"/>
+</p>
 
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>

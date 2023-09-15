@@ -27,9 +27,8 @@
 
 <a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=merko)</a>
 <a href="https://github.com/elrebelde21/The-LoliBot-MD-V2">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD-V2&theme=merko)</a>
-### NovaBot-MD (muy pronto vuelve super distintos, bot el desarrollo) si quiere proba sus funciones entra al grupo ofc del bot 😼
+### `NovaBot-MD (muy pronto vuelve super distintos, bot el desarrollo) si quiere proba sus funciones entra al grupo ofc del bot 😼`
 <a href="https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es" target="blank"><img src="https://img.shields.io/badge/GRUPOS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<a 
 
 <h2 align="center"> PROYECTOS DE COLABORACIÓN </h2>
 
